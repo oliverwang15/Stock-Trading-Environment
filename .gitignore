@@ -1,2 +1,6 @@
 data
 test_ppo
+
+*/__pycache__/*
+__pycache__
+*/__pycache__
