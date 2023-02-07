@@ -1,0 +1,3 @@
+[submodule "FinRL-Meta"]
+	path = FinRL-Meta
+	url = https://github.com/oliverwang15/FinRL-Meta.git
